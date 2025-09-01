@@ -5,7 +5,7 @@ Check out the related [LinkedIn post](https://www.linkedin.com/posts/smarzban_pa
 ![Flood Visualization](pakistan_floods.png)
 
 ## Sindh
-![Flood Visualization](pakistan_floods.png)
+![Flood Visualization](sindh.png)
 
 ## License
 - Data files: [ODbL] — Open Database License. (enforced by upstream data source)
