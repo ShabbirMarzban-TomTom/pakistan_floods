@@ -19,8 +19,7 @@ If you use this repository, please cite it as follows:
 @misc{pakistan_floods,
     author = {Shabbir Marzban},
     title = {pakistan_floods},
-    year = {2024},
+    year = {2025},
     howpublished = {\url{https://github.com/smarzban/pakistan_floods}},
-    note = {Accessed: YYYY-MM-DD}
 }
 ```
