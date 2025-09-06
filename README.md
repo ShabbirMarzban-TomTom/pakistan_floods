@@ -25,6 +25,6 @@ If you use this repository, please cite it as follows:
     author = {Shabbir Marzban},
     title = {pakistan_floods},
     year = {2025},
-    howpublished = {\url{https://github.com/smarzban/pakistan_floods}},
+    howpublished = {\url{https://github.com/ShabbirMarzban-TomTom/pakistan_floods}},
 }
 ```
